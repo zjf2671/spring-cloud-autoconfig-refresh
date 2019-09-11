@@ -1,0 +1,2 @@
+# spring-cloud-autoconfig-refresh
+如需要不想引入mq等bus消息自动刷新技术  可以引用此jar包进行定时refresh用于springcloud config server配置服务器的配置信息数据
